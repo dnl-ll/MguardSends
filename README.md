@@ -32,3 +32,6 @@ the app through your firewall as well.
 Available for:
 windows operating system - x86 , x64
 series : xp , 7 , 8 , 8.1 , 10 , 11
+
+Programming Environment: 
+MSVC + Win32 API
