@@ -37,6 +37,7 @@ administrator mode, or it may malfunction. you need to allow
 the app through your firewall as well. 
 
 ** depending on your router settings you may need to enable port forwarding or Allocate DMZ. **
+** Ip Concerns: You can connect via a proxy. Even if you are not connecting through a proxy, you should be fine since ISPs change your ip from time to timee (unless you have asked for static ip  (if you want to host a website for example)). **
 
 
 
