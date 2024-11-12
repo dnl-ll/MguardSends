@@ -19,7 +19,7 @@ COM
 	no app marketplace
 	#######
     )
-has GUI
+has GUI : a preview will be uploaded (contact ips are random)
 server less
 x86 , x64 systems	
 series : xp , 7 , 8 , 8.1 , 10
