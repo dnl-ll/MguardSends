@@ -1,0 +1,51 @@
+About
+-------
+//----------------------
+// IMPORTANT:
+// this version is for Windows operating system only.
+// the user is fully responsible whether they want to continue installing or not.
+// the application is intended to be used by people who trust each other. hence, choose your new peer wisely.
+// please refer to the user manual for the full explanations + DO's & DON'Ts.
+// here you can find a check list + next step towards running the application.
+
+// secure communication system
+windows desktop
+* YOU NEED TO HAVE "visual c" INSTALLED
+no centralized server
+target user identification/area
+    (
+	windows desktops
+COM
+	no app marketplace
+	#######
+    )
+has GUI
+server less
+x86 , x64 systems	
+series : xp , 7 , 8 , 8.1 , 10
+
+
+
+
+before double clicking on any of the .exe files, make sure 
+you have the microsoft visual c redistributable.
+you start the application by running "MguardSends.exe" with 
+administrator privillages. you do not have to run mSsSVC.exe
+or mCsSVC.exe, the application will automatically decide if 
+they need to be executed. always launch the application in
+administrator mode, or it may malfunction. you need to allow 
+the app through your firewall as well. 
+
+** depending on your router settings you may need to enable port forwarding or Allocate DMZ. **
+
+
+
+
+Current Status
+--------------
+UI/UX design				[done]
+UI/UX coding				[done]
+engine coding				[done]
+Ready/Debugging...
+
+Files are removed! Files will be uploaded again once debugging is done.
